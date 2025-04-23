@@ -1,0 +1,36 @@
+[
+  {
+    "id": "movies-folder",
+    "name": "Movies Library",
+    "category": "Libraries",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/appletv.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "tvshows-folder",
+    "name": "TV Shows Library",
+    "category": "Libraries",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Square",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/discoveryplus.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  }
+]
