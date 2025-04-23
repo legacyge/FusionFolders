@@ -12,7 +12,7 @@
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
     "showIcon": false,
-    "nameDisplayMode": "Below Folder",
+    "nameDisplayMode": "Hidden",
     "textSize": "Medium",
     "textWeight": "Bold"
   },
@@ -29,7 +29,7 @@
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
     "showIcon": false,
-    "nameDisplayMode": "Below Folder",
+    "nameDisplayMode": "Hidden",
     "textSize": "Medium",
     "textWeight": "Bold"
   },
@@ -46,7 +46,7 @@
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
     "showIcon": false,
-    "nameDisplayMode": "Below Folder",
+    "nameDisplayMode": "Hidden",
     "textSize": "Medium",
     "textWeight": "Bold"
   },
@@ -63,7 +63,7 @@
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
     "showIcon": false,
-    "nameDisplayMode": "Below Folder",
+    "nameDisplayMode": "Hidden",
     "textSize": "Medium",
     "textWeight": "Bold"
   },
@@ -80,7 +80,7 @@
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
     "showIcon": false,
-    "nameDisplayMode": "Below Folder",
+    "nameDisplayMode": "Hidden",
     "textSize": "Medium",
     "textWeight": "Bold"
   },
@@ -97,7 +97,7 @@
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
     "showIcon": false,
-    "nameDisplayMode": "Below Folder",
+    "nameDisplayMode": "Hidden",
     "textSize": "Medium",
     "textWeight": "Bold"
   },
@@ -114,7 +114,7 @@
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
     "showIcon": false,
-    "nameDisplayMode": "Below Folder",
+    "nameDisplayMode": "Hidden",
     "textSize": "Medium",
     "textWeight": "Bold"
   },
@@ -131,7 +131,7 @@
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
     "showIcon": false,
-    "nameDisplayMode": "Below Folder",
+    "nameDisplayMode": "Hidden",
     "textSize": "Medium",
     "textWeight": "Bold"
   },
@@ -148,7 +148,7 @@
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
     "showIcon": false,
-    "nameDisplayMode": "Below Folder",
+    "nameDisplayMode": "Hidden",
     "textSize": "Medium",
     "textWeight": "Bold"
   }
