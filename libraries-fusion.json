@@ -2,7 +2,7 @@
   {
     "id": "movies-folder",
     "name": "Movies",
-    "category": "Libraries",
+    "category": "Library",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
@@ -19,7 +19,7 @@
   {
     "id": "tvshows-folder",
     "name": "TV Shows",
-    "category": "Libraries",
+    "category": "Library",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
