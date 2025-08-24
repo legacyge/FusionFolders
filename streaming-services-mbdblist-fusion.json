@@ -68,14 +68,14 @@
     "textWeight": "Bold"
   },
   {
-    "id": "max-folder",
-    "name": "Max",
+    "id": "hbomax-folder",
+    "name": "HBO Max",
     "category": "Streaming Services",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Square",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/max.png",
+    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/hbomax.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
