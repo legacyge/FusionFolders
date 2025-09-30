@@ -17,6 +17,23 @@
     "textWeight": "Bold"
   },
   {
+    "id": "crunchyroll-folder",
+    "name": "Crunchroll",
+    "category": "Streaming Services",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Square",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/crunchyroll.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
     "id": "discoveryplus-folder",
     "name": "Discovery Plus",
     "category": "Streaming Services",
